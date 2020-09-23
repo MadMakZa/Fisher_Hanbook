@@ -15,5 +15,28 @@
         <item>Хлеб</item>
         <item>Рис</item>
     </string-array>
+    <string-array name="sna_array">
+        <item>Грузило</item>
+        <item>Крючки</item>
+        <item>Леска</item>
+        <item>Блесна</item>
+    </string-array>
+    <string-array name="pri_array">
+        <item>Кукуруза</item>
+        <item>Хлеб</item>
+        <item>Рис</item>
+    </string-array>
+    <string-array name="advice_array">
+        <item>Советы по прикормке</item>
+        <item>Сезон рыбалки</item>
+        <item>На что клюёт</item>
+        <item>Большой улов</item>
+    </string-array>
+    <string-array name="history_array">
+        <item>Самые большие пойманные рыбы</item>
+        <item>Удачный улов</item>
+        <item>На живца</item>
+        <item>Подводная охота</item>
+    </string-array>
 
 </resources>

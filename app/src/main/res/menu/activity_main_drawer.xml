@@ -5,25 +5,29 @@
 
     <group android:checkableBehavior="single">
         <item
-            android:id="@+id/nav_home"
+            android:id="@+id/id_fish"
             android:icon="@mipmap/ic_fish1"
-            android:title="@string/menu_home" />
+            android:title="@string/fish" />
         <item
-            android:id="@+id/nav_gallery"
+            android:id="@+id/id_na"
             android:icon="@mipmap/ic_fish1"
-            android:title="@string/menu_gallery" />
+            android:title="@string/na" />
         <item
-            android:id="@+id/nav_slideshow"
+            android:id="@+id/id_sna"
             android:icon="@mipmap/ic_fish1"
-            android:title="@string/menu_slideshow" />
+            android:title="@string/sna" />
         <item
-            android:id="@+id/tools"
+            android:id="@+id/id_pri"
             android:icon="@mipmap/ic_fish2"
-            android:title="Прикормка" />
+            android:title="@string/pri" />
         <item
-            android:id="@+id/nav_share"
+            android:id="@+id/id_history"
             android:icon="@mipmap/ic_fish2"
-            android:title="Разное" />
+            android:title="@string/history" />
+        <item
+            android:id="@+id/id_advice"
+            android:icon="@mipmap/ic_fish2"
+            android:title="@string/advice" />
     </group>
 
 

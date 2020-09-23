@@ -7,7 +7,10 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
-    <string name="menu_home">Рыба</string>
-    <string name="menu_gallery">Наживка</string>
-    <string name="menu_slideshow">Снасти</string>
+    <string name="fish">Рыба</string>
+    <string name="na">Наживка</string>
+    <string name="sna">Снасти</string>
+    <string name="pri">Прикормка</string>
+    <string name="history">Рыбацкие истории</string>
+    <string name="advice">Полезные советы</string>
 </resources>
